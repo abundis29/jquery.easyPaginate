@@ -1,6 +1,6 @@
 {
   "name": "custom_easy_paginate",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "jQuery.easyPaginate is a plugin to paginate pretty anything, like lists, links etc...",
   "main": "lib/jquery.easyPaginate.js",
   "author": "Stephane Litou <contact@stephane-litou.com>",
